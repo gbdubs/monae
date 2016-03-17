@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/MacPorts 2015_9)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: monae.aux
+The style file: plain.bst
+Database file #1: ArchAndroid.bib
+Database file #2: Metropolis.bib
+You've used 25 entries,
+            2118 wiz_defined-function locations,
+            584 strings with 5976 characters,
+and the built_in function-call counts, 5677 in all, are:
+= -- 565
+> -- 205
+< -- 0
++ -- 85
+- -- 60
+* -- 222
+:= -- 966
+add.period$ -- 100
+call.type$ -- 25
+change.case$ -- 105
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 175
+empty$ -- 551
+format.name$ -- 60
+if$ -- 1236
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 0
+newline$ -- 153
+num.names$ -- 50
+pop$ -- 205
+preamble$ -- 1
+purify$ -- 80
+quote$ -- 0
+skip$ -- 154
+stack$ -- 0
+substring$ -- 125
+swap$ -- 25
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 100
+warning$ -- 0
+while$ -- 50
+width$ -- 27
+write$ -- 302
