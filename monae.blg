@@ -1,47 +1,51 @@
-This is BibTeX, Version 0.99d (TeX Live 2015/MacPorts 2015_9)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: monae.aux
-The style file: plain.bst
+The style file: siam.bst
 Database file #1: ArchAndroid.bib
 Database file #2: Metropolis.bib
-You've used 25 entries,
-            2118 wiz_defined-function locations,
-            584 strings with 5976 characters,
-and the built_in function-call counts, 5677 in all, are:
-= -- 565
-> -- 205
+Database file #3: ElectricLady.bib
+Database file #4: ClassReading.bib
+Warning--I didn't find a database entry for "polkadottedstripes"
+You've used 50 entries,
+            2030 wiz_defined-function locations,
+            691 strings with 8283 characters,
+and the built_in function-call counts, 10533 in all, are:
+= -- 1042
+> -- 248
 < -- 0
-+ -- 85
-- -- 60
-* -- 222
-:= -- 966
-add.period$ -- 100
-call.type$ -- 25
-change.case$ -- 105
++ -- 117
+- -- 66
+* -- 615
+:= -- 1609
+add.period$ -- 140
+call.type$ -- 50
+change.case$ -- 200
 chr.to.int$ -- 0
-cite$ -- 25
-duplicate$ -- 175
-empty$ -- 551
-format.name$ -- 60
-if$ -- 1236
+cite$ -- 50
+duplicate$ -- 450
+empty$ -- 1080
+format.name$ -- 66
+if$ -- 2329
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 0
-newline$ -- 153
-num.names$ -- 50
-pop$ -- 205
+int.to.str$ -- 50
+missing$ -- 4
+newline$ -- 243
+num.names$ -- 66
+pop$ -- 333
 preamble$ -- 1
-purify$ -- 80
+purify$ -- 150
 quote$ -- 0
-skip$ -- 154
+skip$ -- 342
 stack$ -- 0
-substring$ -- 125
-swap$ -- 25
+substring$ -- 325
+swap$ -- 92
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 100
+type$ -- 200
 warning$ -- 0
-while$ -- 50
-width$ -- 27
-write$ -- 302
+while$ -- 73
+width$ -- 52
+write$ -- 540
+(There was 1 warning)
