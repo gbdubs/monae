@@ -1,51 +1,60 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: monae.aux
-The style file: siam.bst
+The style file: unsrt.bst
 Database file #1: ArchAndroid.bib
 Database file #2: Metropolis.bib
 Database file #3: ElectricLady.bib
 Database file #4: ClassReading.bib
+Database file #5: External.bib
+Warning--entry type for "metropolis" isn't style-file defined
+--line 1 of file External.bib
+Warning--entry type for "joeyguerra2010" isn't style-file defined
+--line 7 of file External.bib
+Warning--I didn't find a database entry for "favoritefugitive"
+Warning--I didn't find a database entry for "peachtreeblues"
+Warning--I didn't find a database entry for "polkadottedstripe"
+Warning--I didn't find a database entry for "chronreview"
 Warning--I didn't find a database entry for "polkadottedstripes"
-You've used 50 entries,
-            2030 wiz_defined-function locations,
-            691 strings with 8283 characters,
-and the built_in function-call counts, 10533 in all, are:
-= -- 1042
-> -- 248
-< -- 0
-+ -- 117
-- -- 66
-* -- 615
-:= -- 1609
-add.period$ -- 140
-call.type$ -- 50
-change.case$ -- 200
+You've used 52 entries,
+            1791 wiz_defined-function locations,
+            652 strings with 8282 characters,
+and the built_in function-call counts, 7488 in all, are:
+= -- 685
+> -- 208
+< -- 1
++ -- 104
+- -- 52
+* -- 191
+:= -- 1176
+add.period$ -- 198
+call.type$ -- 52
+change.case$ -- 52
 chr.to.int$ -- 0
-cite$ -- 50
-duplicate$ -- 450
-empty$ -- 1080
-format.name$ -- 66
-if$ -- 2329
+cite$ -- 52
+duplicate$ -- 283
+empty$ -- 953
+format.name$ -- 52
+if$ -- 1759
 int.to.chr$ -- 0
-int.to.str$ -- 50
+int.to.str$ -- 52
 missing$ -- 4
-newline$ -- 243
-num.names$ -- 66
-pop$ -- 333
+newline$ -- 305
+num.names$ -- 52
+pop$ -- 296
 preamble$ -- 1
-purify$ -- 150
+purify$ -- 0
 quote$ -- 0
-skip$ -- 342
+skip$ -- 124
 stack$ -- 0
-substring$ -- 325
-swap$ -- 92
-text.length$ -- 0
+substring$ -- 57
+swap$ -- 59
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 200
+type$ -- 0
 warning$ -- 0
-while$ -- 73
-width$ -- 52
-write$ -- 540
-(There was 1 warning)
+while$ -- 56
+width$ -- 54
+write$ -- 609
+(There were 7 warnings)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  17 MAR 2016 21:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 MAR 2016 14:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -293,45 +293,72 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \everyMPtoPDFconversion=\toks28
 )
 
-LaTeX Warning: Citation `polkadottedstripes' on page 1 undefined on input line 
-59.
+LaTeX Warning: Citation `favoritefugitive' on page 1 undefined on input line 25
+.
 
 
-LaTeX Warning: Citation `polkadottedstripes' on page 1 undefined on input line 
-60.
+Underfull \vbox (badness 2020) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Citation `peachtreeblues' on page 2 undefined on input line 60.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation `mytruelove' on page 2 undefined on input line 60.
 
- [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./m
-onae.bbl
+
+LaTeX Warning: Citation `polkadottedstripe' on page 2 undefined on input line 6
+3.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+LaTeX Warning: Citation `chronreview' on page 2 undefined on input line 67.
+
 [2]
+
+LaTeX Warning: Citation `polkadottedstripes' on page 3 undefined on input line 
+107.
+
+
+LaTeX Warning: Citation `polkadottedstripes' on page 3 undefined on input line 
+108.
+
+(./monae.bbl [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3])
-[4] (./monae.aux)
+ [4]
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ¡ in font cmr9!
+)
+[5] (./monae.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3455 strings out of 493089
- 45261 string characters out of 6134842
- 115611 words of memory out of 5000000
- 6738 multiletter control sequences out of 15000+600000
- 9241 words of font info for 35 fonts, out of 8000000 for 9000
+ 3463 strings out of 493089
+ 45377 string characters out of 6134842
+ 115625 words of memory out of 5000000
+ 6745 multiletter control sequences out of 15000+600000
+ 9286 words of font info for 35 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 42i,5n,32p,342b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,5n,32p,383b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on monae.pdf (4 pages, 110747 bytes).
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on monae.pdf (5 pages, 120881 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
