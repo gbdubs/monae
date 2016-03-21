@@ -7,52 +7,50 @@ Database file #2: Metropolis.bib
 Database file #3: ElectricLady.bib
 Database file #4: ClassReading.bib
 Database file #5: External.bib
-Warning--entry type for "metropolis" isn't style-file defined
---line 1 of file External.bib
-Warning--entry type for "joeyguerra2010" isn't style-file defined
---line 7 of file External.bib
-Warning--I didn't find a database entry for "peachtreeblues"
-Warning--I didn't find a database entry for "mytruelove"
-Warning--I didn't find a database entry for "polkadottedstripe"
-You've used 52 entries,
+Warning--I didn't find a database entry for "higginbotham"
+Warning--I didn't find a database entry for "hine"
+Warning--I didn't find a database entry for "forcoloredgirls"
+Warning--I didn't find a database entry for "thebridge"
+Warning--I didn't find a database entry for "lorde"
+You've used 56 entries,
             1791 wiz_defined-function locations,
-            650 strings with 8266 characters,
-and the built_in function-call counts, 7488 in all, are:
-= -- 685
-> -- 208
-< -- 1
-+ -- 104
-- -- 52
-* -- 191
-:= -- 1176
-add.period$ -- 198
-call.type$ -- 52
-change.case$ -- 52
+            671 strings with 8670 characters,
+and the built_in function-call counts, 8105 in all, are:
+= -- 739
+> -- 224
+< -- 2
++ -- 112
+- -- 56
+* -- 203
+:= -- 1268
+add.period$ -- 211
+call.type$ -- 56
+change.case$ -- 56
 chr.to.int$ -- 0
-cite$ -- 52
-duplicate$ -- 283
-empty$ -- 953
-format.name$ -- 52
-if$ -- 1759
+cite$ -- 56
+duplicate$ -- 312
+empty$ -- 1030
+format.name$ -- 56
+if$ -- 1908
 int.to.chr$ -- 0
-int.to.str$ -- 52
-missing$ -- 4
-newline$ -- 305
-num.names$ -- 52
-pop$ -- 296
+int.to.str$ -- 56
+missing$ -- 5
+newline$ -- 326
+num.names$ -- 56
+pop$ -- 319
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 124
+skip$ -- 142
 stack$ -- 0
-substring$ -- 57
-swap$ -- 59
-text.length$ -- 1
+substring$ -- 69
+swap$ -- 68
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 56
-width$ -- 54
-write$ -- 609
+while$ -- 62
+width$ -- 58
+write$ -- 652
 (There were 5 warnings)
