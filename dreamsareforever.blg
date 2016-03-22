@@ -7,44 +7,44 @@ Database file #2: Metropolis.bib
 Database file #3: ElectricLady.bib
 Database file #4: ClassReading.bib
 Database file #5: External.bib
-You've used 66 entries,
+You've used 42 entries,
             1791 wiz_defined-function locations,
-            723 strings with 9922 characters,
-and the built_in function-call counts, 9804 in all, are:
-= -- 893
-> -- 272
-< -- 2
-+ -- 134
-- -- 68
-* -- 279
-:= -- 1542
-add.period$ -- 243
-call.type$ -- 66
-change.case$ -- 60
+            634 strings with 7770 characters,
+and the built_in function-call counts, 6212 in all, are:
+= -- 561
+> -- 176
+< -- 1
++ -- 86
+- -- 44
+* -- 171
+:= -- 982
+add.period$ -- 153
+call.type$ -- 42
+change.case$ -- 36
 chr.to.int$ -- 0
-cite$ -- 66
-duplicate$ -- 408
-empty$ -- 1229
-format.name$ -- 68
-if$ -- 2302
+cite$ -- 42
+duplicate$ -- 265
+empty$ -- 781
+format.name$ -- 44
+if$ -- 1457
 int.to.chr$ -- 0
-int.to.str$ -- 66
-missing$ -- 21
-newline$ -- 376
-num.names$ -- 66
-pop$ -- 361
+int.to.str$ -- 42
+missing$ -- 17
+newline$ -- 238
+num.names$ -- 42
+pop$ -- 233
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 168
+skip$ -- 106
 stack$ -- 0
-substring$ -- 130
-swap$ -- 78
-text.length$ -- 2
+substring$ -- 73
+swap$ -- 47
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 77
-width$ -- 68
-write$ -- 758
+while$ -- 49
+width$ -- 44
+write$ -- 478
