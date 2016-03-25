@@ -7,9 +7,12 @@ Database file #2: Metropolis.bib
 Database file #3: ElectricLady.bib
 Database file #4: ClassReading.bib
 Database file #5: External.bib
+Warning--I didn't find a database entry for "selfnaming"
+Warning--I didn't find a database entry for "cooper1892"
+Warning--I didn't find a database entry for "smithhomegirls"
 You've used 42 entries,
             1791 wiz_defined-function locations,
-            634 strings with 7770 characters,
+            637 strings with 7804 characters,
 and the built_in function-call counts, 6212 in all, are:
 = -- 561
 > -- 176
@@ -48,3 +51,4 @@ warning$ -- 0
 while$ -- 49
 width$ -- 44
 write$ -- 478
+(There were 3 warnings)
