@@ -7,48 +7,44 @@ Database file #2: Metropolis.bib
 Database file #3: ElectricLady.bib
 Database file #4: ClassReading.bib
 Database file #5: External.bib
-Warning--I didn't find a database entry for "selfnaming"
-Warning--I didn't find a database entry for "cooper1892"
-Warning--I didn't find a database entry for "smithhomegirls"
-You've used 42 entries,
+You've used 53 entries,
             1791 wiz_defined-function locations,
-            637 strings with 7804 characters,
-and the built_in function-call counts, 6212 in all, are:
-= -- 561
-> -- 176
-< -- 1
-+ -- 86
-- -- 44
-* -- 171
-:= -- 982
-add.period$ -- 153
-call.type$ -- 42
-change.case$ -- 36
+            688 strings with 8946 characters,
+and the built_in function-call counts, 8047 in all, are:
+= -- 731
+> -- 220
+< -- 2
++ -- 108
+- -- 55
+* -- 246
+:= -- 1267
+add.period$ -- 188
+call.type$ -- 53
+change.case$ -- 45
 chr.to.int$ -- 0
-cite$ -- 42
-duplicate$ -- 265
-empty$ -- 781
-format.name$ -- 44
-if$ -- 1457
+cite$ -- 53
+duplicate$ -- 356
+empty$ -- 998
+format.name$ -- 55
+if$ -- 1883
 int.to.chr$ -- 0
-int.to.str$ -- 42
-missing$ -- 17
-newline$ -- 238
-num.names$ -- 42
-pop$ -- 233
+int.to.str$ -- 53
+missing$ -- 26
+newline$ -- 295
+num.names$ -- 53
+pop$ -- 281
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 106
+skip$ -- 144
 stack$ -- 0
-substring$ -- 73
-swap$ -- 47
-text.length$ -- 1
+substring$ -- 149
+swap$ -- 65
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 49
-width$ -- 44
-write$ -- 478
-(There were 3 warnings)
+while$ -- 67
+width$ -- 55
+write$ -- 596
