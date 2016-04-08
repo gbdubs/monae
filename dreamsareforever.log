@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  8 APR 2016 14:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  8 APR 2016 19:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -90,30 +90,40 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
  [4]
-[5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-(./dreamsareforever.bbl [18] [19] [20]) [21] (./dreamsareforever.aux) ) 
+[5] [6] [7] [8] [9] [10] [11] [12]
+Overfull \hbox (1.55284pt too wide) in paragraph at lines 341--341
+[]\T1/cmr/bx/n/14.4 The Elec-tric Lady Suite V: Self Em-pow-er-ment, Strug-
+ []
+
+[13] [14] [15] [16] [17] (./dreamsareforever.bbl [18] [19] [20]
+Underfull \hbox (badness 4144) in paragraph at lines 267--271
+[]\T1/cmr/m/n/10.95 (+20) Joey Guerra.  Janelle Monáe: De-con-struct-ing the Ar
+chAn-
+ []
+
+) [21] (./dreamsareforever.aux) ) 
 Here is how much of TeX's memory you used:
- 2135 strings out of 493089
- 33703 string characters out of 6134842
+ 2127 strings out of 493089
+ 33619 string characters out of 6134842
  122414 words of memory out of 5000000
  5496 multiletter control sequences out of 15000+600000
- 20881 words of font info for 114 fonts, out of 8000000 for 9000
+ 20397 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,5n,35p,893b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/lo
-cal/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2015/texmf
--dist/fonts/type1/public/cm-super/sfti1728.pfb>
-Output written on dreamsareforever.pdf (21 pages, 252535 bytes).
+ 30i,5n,35p,894b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/
+dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/
+public/cm-super/sfbx1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/cm-super/sfbx1728.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/cm-super/sfcc1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/c
+m-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-
+super/sfrm1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-su
+per/sfrm1728.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-supe
+r/sfti1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/
+sfti1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sf
+ti1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti
+1728.pfb>
+Output written on dreamsareforever.pdf (21 pages, 248881 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream

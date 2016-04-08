@@ -209,9 +209,9 @@ bell hooks.
 \newblock Routledge, 1996.
 
 \bibitem{johnson2001quare}
-E~Patrick Johnson.
-\newblock " quare" studies, or (almost) everything i know about queer studies i
-  learned from my grandmother.
+E.~Patrick Johnson.
+\newblock ``quare'' studies, or (almost) everything i know about queer studies
+  i learned from my grandmother.
 \newblock {\em Text and Performance Quarterly}, 21(1):1--25, 2001.
 
 \bibitem{ghettowoman}
@@ -265,7 +265,9 @@ bell hooks.
 
 \bibitem{joeyguerra2010}
 Joey Guerra.
-\newblock Janelle monáe: Deconstructing the archandroid, jun 2010.
+\newblock {Janelle Mon\'ae: Deconstructing the ArchAndroid}, June 2010.
+\newblock
+  http://blog.chron.com/peep/2010/06/janelle-monae-deconstructing-the-archandroid.
 
 \bibitem{collins2009}
 Patricia~Hill Collins.
@@ -280,26 +282,5 @@ Elizabeth Iglesias and Sherry Cormier.
   strategies for liberation.
 \newblock {\em Journal of Multicultural Counseling and Development}, 30(4):259,
   10 2002.
-
-\bibitem{lordredefiningdifference}
-Audre Lorde.
-\newblock Age, race, class, and sex: Women redefining difference.
-\newblock {\em Cultural Politics}, 11:374--380, 1997.
-
-\bibitem{thebridge}
-Cherr\'ie Moraga and Gloria~E. Anzald\'ua.
-\newblock {\em Introduction: This Bridge Called My Back: Writings by Radical
-  Women of Color}.
-\newblock Persephone Press, 1981.
-
-\bibitem{lorde2003master}
-Audre Lorde.
-\newblock The master’s tools will never dismantle the master’s house.
-\newblock {\em Feminist postcolonial theory: A reader}, 25:27, 2003.
-
-\bibitem{hooksforeveryone}
-bell hooks.
-\newblock {\em Feminism Is for Everybody: Passionate Politics}.
-\newblock Taylor \& Francis, 2014.
 
 \end{thebibliography}
