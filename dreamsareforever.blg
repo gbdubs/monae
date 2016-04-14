@@ -1,50 +1,66 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: dreamsareforever.aux
-The style file: unsrt.bst
-Database file #1: ArchAndroid.bib
-Database file #2: Metropolis.bib
-Database file #3: ElectricLady.bib
-Database file #4: ClassReading.bib
-Database file #5: External.bib
-You've used 54 entries,
-            1791 wiz_defined-function locations,
-            686 strings with 9057 characters,
-and the built_in function-call counts, 8008 in all, are:
-= -- 719
-> -- 218
-< -- 3
-+ -- 108
-- -- 54
-* -- 234
-:= -- 1241
-add.period$ -- 188
-call.type$ -- 54
-change.case$ -- 46
-chr.to.int$ -- 0
-cite$ -- 54
-duplicate$ -- 353
-empty$ -- 1011
-format.name$ -- 54
-if$ -- 1885
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 12645 items from 5000.
+Database file #1: dreamsareforever-blx.bib
+Database file #2: ArchAndroid.bib
+Database file #3: Metropolis.bib
+Database file #4: ElectricLady.bib
+Database file #5: ClassReading.bib
+Database file #6: External.bib
+Biblatex version: 3.0
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 55 entries,
+            6047 wiz_defined-function locations,
+            1374 strings with 13945 characters,
+and the built_in function-call counts, 151501 in all, are:
+= -- 6000
+> -- 4970
+< -- 1618
++ -- 1241
+- -- 1397
+* -- 8973
+:= -- 8499
+add.period$ -- 0
+call.type$ -- 55
+change.case$ -- 795
+chr.to.int$ -- 72
+cite$ -- 108
+duplicate$ -- 17633
+empty$ -- 16928
+format.name$ -- 2757
+if$ -- 35277
 int.to.chr$ -- 0
-int.to.str$ -- 54
-missing$ -- 24
-newline$ -- 297
-num.names$ -- 52
-pop$ -- 301
+int.to.str$ -- 189
+missing$ -- 0
+newline$ -- 1014
+num.names$ -- 2678
+pop$ -- 17368
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 849
 quote$ -- 0
-skip$ -- 151
+skip$ -- 9642
 stack$ -- 0
-substring$ -- 118
-swap$ -- 67
-text.length$ -- 3
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
+substring$ -- 2508
+swap$ -- 5511
+text.length$ -- 1302
+text.prefix$ -- 54
+top$ -- 1
+type$ -- 2078
 warning$ -- 0
-while$ -- 63
-width$ -- 56
-write$ -- 599
+while$ -- 1025
+width$ -- 0
+write$ -- 958

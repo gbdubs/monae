@@ -1,308 +1,1025 @@
-\begin{thebibliography}{10}
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem{wolfmasters}
-{Janelle Mon\'ae}.
-\newblock {March of the Wolfmasters}.
-\newblock {Bad Boy Records}, {aug} {2007}.
-\newblock {(1:27) Track 1, Metropolis: Suite I (The Chase}).
+\entry{lynching}{misc}{}
+  \field{sortinit}{A}
+  \field{note}{100 Years of Lynching, Ralph Ginzburg, Black Classic Press;
+  Lynching in the New South, W. Fitzhugh Brundage, University of Illinois
+  Press}
+  \field{title}{A Partial Listing of Negroes Lynched in the United States Since
+  1859}
+  \verb{url}
+  \verb http://ccharity.com/lynching/
+  \endverb
+  \field{year}{2015}
+\endentry
 
-\bibitem{manymoons}
-Janelle Mon\'ae.
-\newblock {Many Moons}.
-\newblock {Bad Boy Records}, {aug} {2007}.
-\newblock {(5:34) Track 3, Metropolis: Suite I (The Chase}).
+\entry{cooper1892}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Anna Julia Cooper}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{sortinit}{A}
+  \field{title}{When and Where I Enter}
+  \field{year}{1892}
+\endentry
 
-\bibitem{favoritefugitive}
-{Janelle Mon\'ae}.
-\newblock {Our Favorite Fugitive (Interlude)}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {sep} {2013}.
-\newblock {(1:23) Track 14, The Electric Lady: Suite V}.
+\entry{wikipediaantimiscegenation}{misc}{}
+  \field{sortinit}{A}
+  \field{title}{Anti-Miscegenation Laws in the United States}
+  \verb{url}
+  \verb https://en.wikipedia.org/wiki/Anti-miscegenation_laws_in_the_United_Sta
+  \verb tes
+  \endverb
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{fiveseveneighttwoone}
-{Janelle Mon\'ae and Deep Cotton}.
-\newblock {57821}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(3:16) Track 16, The ArchAndroid: Suite III}.
+\entry{collins2009}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collins}{C.}%
+     {Patricia~Hill}{P.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CPH1}
+  \strng{fullhash}{CPH1}
+  \field{sortinit}{C}
+  \field{note}{http://www.hartford-hwp.com/archives/45a/252.html}
+  \field{pages}{4\bibrangedash 5}
+  \field{title}{Black Feminist Thought in the Matrix of Domination}
+  \field{journaltitle}{Turning the Tide: Nonviolent Power for Social Change}
+  \field{year}{2009}
+\endentry
 
-\bibitem{metropolis}
-Murnau Stiftung.
-\newblock Metropolis 1927: Summary and credits.
+\entry{collins86}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collins}{C.}%
+     {Patricia~Hill}{P.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {[Oxford University Press, Society for the Study of Social Problems]}%
+  }
+  \strng{namehash}{CPH1}
+  \strng{fullhash}{CPH1}
+  \field{sortinit}{C}
+  \field{number}{6}
+  \field{pages}{S14\bibrangedash S32}
+  \field{title}{Learning from the Outsider Within: The Sociological
+  Significance of Black Feminist Thought}
+  \verb{url}
+  \verb http://www.jstor.org/stable/800672
+  \endverb
+  \field{volume}{33}
+  \field{journaltitle}{Social Problems}
+  \field{year}{1986}
+\endentry
 
-\bibitem{happyhunting}
-{Janelle Mon\'ae and The Skunks}.
-\newblock {Violet Stars Happy Hunting!!!}
-\newblock {Bad Boy Records}, {aug} {2007}.
-\newblock {(3:13) Track 2, Metropolis: Suite I (The Chase}).
+\entry{dubois}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Du~Bois}{D.~B.}%
+     {collected by William Edward~Burghardt}{c.~b. W. E.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Huggins}{H.}%
+     {Nathan~Irvin}{N.~I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Library of America}%
+  }
+  \strng{namehash}{DBcbWEBHNI1}
+  \strng{fullhash}{DBcbWEBHNI1}
+  \field{sortinit}{D}
+  \field{title}{Writings of W.E.B. Du Bois}
+  \field{volume}{34}
+  \field{year}{1986}
+\endentry
 
-\bibitem{lordescratching}
-Audre Lorde.
-\newblock Scratching the surface: Some notes on barriers to women and loving.
-\newblock {\em The Black Scholar}, 9(7):31--35, 1978.
+\entry{joeyguerra2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Guerra}{G.}%
+     {Joey}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJ1}
+  \strng{fullhash}{GJ1}
+  \field{sortinit}{G}
+  \field{note}{http://blog.chron.com/peep/2010/06/janelle-monae-deconstructing-the-archandroid}
+  \field{title}{{Janelle Mon\'ae: Deconstructing the ArchAndroid}}
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{lynching}
-A partial listing of negroes lynched in the united states since 1859, 2015.
-\newblock 100 Years of Lynching, Ralph Ginzburg, Black Classic Press; Lynching
-  in the New South, W. Fitzhugh Brundage, University of Illinois Press.
+\entry{higginbotham}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Higginbotham}{H.}%
+     {Evelyn~Brooks}{E.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Harvard University Press}%
+  }
+  \strng{namehash}{HEB1}
+  \strng{fullhash}{HEB1}
+  \field{sortinit}{H}
+  \field{series}{ACLS Humanities E-Book}
+  \field{title}{Righteous Discontent: The Women's Movement in the Black Baptist
+  Church, 1880-1920}
+  \field{year}{1994}
+\endentry
 
-\bibitem{wikipediatransmurders}
-Violence.
-\newblock List of unlawfully killed transgender people, feb 2016.
+\entry{hine}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hine}{H.}%
+     {Darlene~Clark}{D.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Chicago Press}%
+  }
+  \strng{namehash}{HDC1}
+  \strng{fullhash}{HDC1}
+  \field{sortinit}{H}
+  \field{number}{4}
+  \field{pages}{912\bibrangedash 920}
+  \field{title}{Rape and the Inner Lives of Black Women in the Middle West}
+  \field{volume}{14}
+  \field{journaltitle}{Signs}
+  \field{year}{1989}
+\endentry
 
-\bibitem{newvisions}
-bell hooks.
-\newblock {\em All About Love: New Visions}.
-\newblock Bell Hooks Love Trilogy. HarperCollins, 2001.
+\entry{newvisions}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {hooks}{h.}%
+     {}{}%
+     {bell}{b.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {HarperCollins}%
+  }
+  \strng{namehash}{hb1}
+  \strng{fullhash}{hb1}
+  \field{sortinit}{H}
+  \field{series}{Bell Hooks Love Trilogy}
+  \field{title}{All About Love: New Visions}
+  \field{year}{2001}
+\endentry
 
-\bibitem{wikipediaantimiscegenation}
-Anti-miscegenation laws in the united states, sep 2015.
+\entry{hookschoosing}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {hooks}{h.}%
+     {}{}%
+     {bell}{b.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Warwick Arts Federation}%
+  }
+  \strng{namehash}{hb1}
+  \strng{fullhash}{hb1}
+  \field{sortinit}{H}
+  \field{title}{Choosing the margin as space of radical openness}
+  \field{journaltitle}{Framework}
+  \field{year}{1989}
+\endentry
 
-\bibitem{dubois}
-collected by William Edward~Burghardt Du~Bois and Nathan~Irvin Huggins.
-\newblock {\em Writings of W.E.B. Du Bois}, volume~34.
-\newblock Library of America, 1986.
+\entry{hooks1994outlaw}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {hooks}{h.}%
+     {}{}%
+     {bell}{b.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \strng{namehash}{hb1}
+  \strng{fullhash}{hb1}
+  \field{sortinit}{H}
+  \field{title}{Outlaw Culture: Resisting Representations}
+  \verb{url}
+  \verb https://books.google.com/books?id=47gTeoOwJ7EC
+  \endverb
+  \field{year}{1994}
+\endentry
 
-\bibitem{goodmorningmidnight}
-{Janelle Mon\'ae}.
-\newblock {Good Morning Midnight (Interlude)}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {sep} {2013}.
-\newblock {(1:22) Track 5, The Electric Lady: Suite IV}.
+\entry{hooksreeltoreal}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {hooks}{h.}%
+     {}{}%
+     {bell}{b.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \strng{namehash}{hb1}
+  \strng{fullhash}{hb1}
+  \field{sortinit}{H}
+  \field{title}{Reel to Real: Race, Class and Sex at the Movies}
+  \field{year}{1996}
+\endentry
 
-\bibitem{higginbotham}
-Evelyn~Brooks Higginbotham.
-\newblock {\em Righteous Discontent: The Women's Movement in the Black Baptist
-  Church, 1880-1920}.
-\newblock ACLS Humanities E-Book. Harvard University Press, 1994.
+\entry{iglesiascormier}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Iglesias}{I.}%
+     {Elizabeth}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cormier}{C.}%
+     {Sherry}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
+  }
+  \strng{namehash}{IECS1}
+  \strng{fullhash}{IECS1}
+  \field{sortinit}{I}
+  \field{number}{4}
+  \field{pages}{259}
+  \field{title}{The transformation of girls to women: Finding voice and
+  developing strategies for liberation}
+  \field{volume}{30}
+  \field{journaltitle}{Journal of Multicultural Counseling and Development}
+  \field{month}{10}
+  \field{year}{2002}
+\endentry
 
-\bibitem{sincerelyjane}
-{Janelle Mon\'ae}.
-\newblock {Sincerely, Jane.}
-\newblock {Bad Boy Records}, {aug} {2007}.
-\newblock {(5:36) Track 5, Metropolis: Suite I (The Chase}).
+\entry{babopbyeya}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(8:47) Track 18, The ArchAndroid: Suite III}}
+  \field{title}{{BabopbyeYa}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{queen}
-{Janelle Mon\'ae and Erykah Badu}.
-\newblock {Q.U.E.E.N.}
-\newblock {Wondaland Arts Society and Bad Boy Records}, {sep} {2013}.
-\newblock {(5:10) Track 3, The Electric Lady: Suite IV}.
+\entry{coldwar}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(3:23) Track 6, The ArchAndroid: Suite II}}
+  \field{title}{{Cold War}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{mrpresident}
-{Janelle Mon\'ae}.
-\newblock {Mr. President}.
-\newblock {Bad Boy Records}, {aug} {2008}.
-\newblock {(4:59) Track 6, Metropolis: Suite I (The Chase) [Special Edition
-  2008]}.
+\entry{roses}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(3:22) Track 10, The ArchAndroid: Suite II}}
+  \field{title}{{Come Alive (The War of the Roses)}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{hine}
-Darlene~Clark Hine.
-\newblock Rape and the inner lives of black women in the middle west.
-\newblock {\em Signs}, 14(4):912--920, 1989.
+\entry{faster}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(3:19) Track 3, The ArchAndroid: Suite II}}
+  \field{title}{{Faster}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{smile}
-{Janelle Mon\'ae}.
-\newblock {Smile}.
-\newblock {Bad Boy Records}, {aug} {2008}.
-\newblock {(3:58) Track 7, Metropolis: Suite I (The Chase) [Special Edition
-  2008]}.
+\entry{ghettowoman}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(4:46) Track 13, The Electric Lady: Suite V}}
+  \field{title}{{Ghetto Woman}}
+  \field{year}{{2013}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{forcoloredgirls}
-Ntozake Shange.
-\newblock {\em For colored girls who have considered suicide/When the rainbow
-  is enuf}.
-\newblock Scribner, 1975.
+\entry{goodmorningmidnight}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(1:22) Track 5, The Electric Lady: Suite IV}}
+  \field{title}{{Good Morning Midnight (Interlude)}}
+  \field{year}{{2013}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{primetime}
-{Janelle Mon\'ae and Miguel}.
-\newblock {PrimeTime}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {sep} {2013}.
-\newblock {(4:40) Track 6, The Electric Lady: Suite IV}.
+\entry{lockedinside}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(4:16) Track 4, The ArchAndroid: Suite II}}
+  \field{title}{{Locked Inside}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{tightrope}
-{Janelle Mon\'ae and Big Boi}.
-\newblock {Tightrope}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(4:22) Track 7, The ArchAndroid: Suite II}.
+\entry{wolfmasters}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Bad Boy Records}}
+  \field{note}{{(1:27) Track 1, Metropolis: Suite I (The Chase})}
+  \field{title}{{March of the Wolfmasters}}
+  \field{year}{{2007}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{danceordie}
-{Janelle Mon\'ae and Saul Williams}.
-\newblock {Dance or Die}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(3:12) Track 2, The ArchAndroid: Suite II}.
+\entry{mrpresident}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Bad Boy Records}}
+  \field{note}{{(4:59) Track 6, Metropolis: Suite I (The Chase) [Special
+  Edition 2008]}}
+  \field{title}{{Mr. President}}
+  \field{year}{{2008}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{coldwar}
-{Janelle Mon\'ae}.
-\newblock {Cold War}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(3:23) Track 6, The ArchAndroid: Suite II}.
+\entry{neonvalleystreet}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(4:11) Track 13, The ArchAndroid: Suite III}}
+  \field{title}{{Neon Valley Street}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{faster}
-{Janelle Mon\'ae}.
-\newblock {Faster}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(3:19) Track 3, The ArchAndroid: Suite II}.
+\entry{ohmaker}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(3:46) Track 9, The ArchAndroid: Suite II}}
+  \field{title}{{Oh Maker}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{cooper1892}
-{Anna Julia Cooper}.
-\newblock When and where i enter, 1892.
+\entry{favoritefugitive}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(1:23) Track 14, The Electric Lady: Suite V}}
+  \field{title}{{Our Favorite Fugitive (Interlude)}}
+  \field{year}{{2013}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{ohmaker}
-{Janelle Mon\'ae}.
-\newblock {Oh Maker}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(3:46) Track 9, The ArchAndroid: Suite II}.
+\entry{sallyride}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(4:08) Track 17, The Electric Lady: Suite V}}
+  \field{title}{{Sally Ride}}
+  \field{year}{{2013}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{citizen}
-Claudia Rankine.
-\newblock {\em Citizen: An American Lyric}.
-\newblock Graywolf Press, 2014.
+\entry{sayyouwillgo}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(6:01) Track 17, The ArchAndroid: Suite III}}
+  \field{title}{{Say You'll Go}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{roses}
-{Janelle Mon\'ae}.
-\newblock {Come Alive (The War of the Roses)}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(3:22) Track 10, The ArchAndroid: Suite II}.
+\entry{sincerelyjane}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Bad Boy Records}}
+  \field{note}{{(5:36) Track 5, Metropolis: Suite I (The Chase})}
+  \field{title}{{Sincerely, Jane.}}
+  \field{year}{{2007}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{lockedinside}
-{Janelle Mon\'ae}.
-\newblock {Locked Inside}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(4:16) Track 4, The ArchAndroid: Suite II}.
+\entry{greendown}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(2:14) Track 5, The ArchAndroid: Suite II}}
+  \field{title}{{Sir Greendown}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{wondaland}
-{Janelle Mon\'ae}.
-\newblock {Wondaland}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(3:36) Track 15, The ArchAndroid: Suite III}.
+\entry{smile}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Bad Boy Records}}
+  \field{note}{{(3:58) Track 7, Metropolis: Suite I (The Chase) [Special
+  Edition 2008]}}
+  \field{title}{{Smile}}
+  \field{year}{{2008}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{makethebus}
-{Janelle Mon\'ae and Of Montreal}.
-\newblock {Make the Bus}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(3:19) Track 14, The ArchAndroid: Suite III}.
+\entry{chromeshoppe}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(1:10) Track 8, The Electric Lady: Suite IV}}
+  \field{title}{{The Chrome Shoppe (Interlude)}}
+  \field{year}{{2013}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{neonvalleystreet}
-{Janelle Mon\'ae}.
-\newblock {Neon Valley Street}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(4:11) Track 13, The ArchAndroid: Suite III}.
+\entry{victory}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(4:12) Track 15, The Electric Lady: Suite V}}
+  \field{title}{{Victory}}
+  \field{year}{{2013}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{sayyouwillgo}
-{Janelle Mon\'ae}.
-\newblock {Say You'll Go}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(6:01) Track 17, The ArchAndroid: Suite III}.
+\entry{wondaland}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(3:36) Track 15, The ArchAndroid: Suite III}}
+  \field{title}{{Wondaland}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{greendown}
-{Janelle Mon\'ae}.
-\newblock {Sir Greendown}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(2:14) Track 5, The ArchAndroid: Suite II}.
+\entry{tightrope}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae and Big Boi}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J2}
+  \strng{fullhash}{J2}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(4:22) Track 7, The ArchAndroid: Suite II}}
+  \field{title}{{Tightrope}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{babopbyeya}
-{Janelle Mon\'ae}.
-\newblock {BabopbyeYa}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {may} {2010}.
-\newblock {(8:47) Track 18, The ArchAndroid: Suite III}.
+\entry{fiveseveneighttwoone}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae and Deep Cotton}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J3}
+  \strng{fullhash}{J3}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(3:16) Track 16, The ArchAndroid: Suite III}}
+  \field{title}{{57821}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{rebeccawalker}
-Rebecca Walker.
-\newblock Becoming the third wave.
-\newblock {\em Identity politics in the women's movement}, pages 78--87, 2001.
+\entry{queen}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae and Erykah Badu}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J4}
+  \strng{fullhash}{J4}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(5:10) Track 3, The Electric Lady: Suite IV}}
+  \field{title}{{Q.U.E.E.N.}}
+  \field{year}{{2013}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{hooks1994outlaw}
-bell hooks.
-\newblock {\em Outlaw Culture: Resisting Representations}.
-\newblock Routledge, 1994.
+\entry{dandridgeeyes}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae and Esperanza Spalding}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J5}
+  \strng{fullhash}{J5}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(4:15) Track 18, The Electric Lady: Suite V}}
+  \field{title}{{Dorothy Dandridge Eyes}}
+  \field{year}{{2013}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{chromeshoppe}
-{Janelle Mon\'ae}.
-\newblock {The Chrome Shoppe (Interlude)}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {sep} {2013}.
-\newblock {(1:10) Track 8, The Electric Lady: Suite IV}.
+\entry{primetime}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae and Miguel}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J6}
+  \strng{fullhash}{J6}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(4:40) Track 6, The Electric Lady: Suite IV}}
+  \field{title}{{PrimeTime}}
+  \field{year}{{2013}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{sallyride}
-{Janelle Mon\'ae}.
-\newblock {Sally Ride}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {sep} {2013}.
-\newblock {(4:08) Track 17, The Electric Lady: Suite V}.
+\entry{makethebus}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae and Of Montreal}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J7}
+  \strng{fullhash}{J7}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(3:19) Track 14, The ArchAndroid: Suite III}}
+  \field{title}{{Make the Bus}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{hooksreeltoreal}
-bell hooks.
-\newblock {\em Reel to Real: Race, Class and Sex at the Movies}.
-\newblock Routledge, 1996.
+\entry{danceordie}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae and Saul Williams}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J8}
+  \strng{fullhash}{J8}
+  \field{sortinit}{J}
+  \field{howpublished}{{Wondaland Arts Society and Bad Boy Records}}
+  \field{note}{{(3:12) Track 2, The ArchAndroid: Suite II}}
+  \field{title}{{Dance or Die}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{johnson2001quare}
-E.~Patrick Johnson.
-\newblock ``quare'' studies, or (almost) everything i know about queer studies
-  i learned from my grandmother.
-\newblock {\em Text and Performance Quarterly}, 21(1):1--25, 2001.
+\entry{happyhunting}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Janelle Mon\'ae and The Skunks}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J9}
+  \strng{fullhash}{J9}
+  \field{sortinit}{J}
+  \field{howpublished}{{Bad Boy Records}}
+  \field{note}{{(3:13) Track 2, Metropolis: Suite I (The Chase})}
+  \field{title}{{Violet Stars Happy Hunting!!!}}
+  \field{year}{{2007}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{ghettowoman}
-{Janelle Mon\'ae}.
-\newblock {Ghetto Woman}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {sep} {2013}.
-\newblock {(4:46) Track 13, The Electric Lady: Suite V}.
+\entry{polkadottedstripe}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Jaspects}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J10}
+  \strng{fullhash}{J10}
+  \field{sortinit}{J}
+  \field{note}{{(8:00) Track 3, The Polkadotted Stripe}}
+  \field{title}{{Polkadotted Stripes}}
+  \field{year}{{2009}}
+\endentry
 
-\bibitem{victory}
-{Janelle Mon\'ae}.
-\newblock {Victory}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {sep} {2013}.
-\newblock {(4:12) Track 15, The Electric Lady: Suite V}.
+\entry{myfirstlove}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Jaspects and Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J11}
+  \strng{fullhash}{J11}
+  \field{sortinit}{J}
+  \field{note}{{(3:58) In House Sessions}}
+  \field{title}{{My First Love}}
+  \field{year}{{2005}}
+\endentry
 
-\bibitem{smithhomegirls}
-Barbara Smith.
-\newblock {\em Home Girls: A Black Feminist Anthology}.
-\newblock Rutgers University Press, 1983.
+\entry{peachtreeblues}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Jaspects and Janelle Mon\'ae}}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J11}
+  \strng{fullhash}{J11}
+  \field{sortinit}{J}
+  \field{note}{{(4:21) Broadcasting The Definition}}
+  \field{title}{{Peachtree Blues}}
+  \field{year}{{2007}}
+\endentry
 
-\bibitem{dandridgeeyes}
-{Janelle Mon\'ae and Esperanza Spalding}.
-\newblock {Dorothy Dandridge Eyes}.
-\newblock {Wondaland Arts Society and Bad Boy Records}, {sep} {2013}.
-\newblock {(4:15) Track 18, The Electric Lady: Suite V}.
+\entry{johnson2001quare}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Johnson}{J.}%
+     {E.~Patrick}{E.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Taylor \& Francis}%
+  }
+  \strng{namehash}{JEP1}
+  \strng{fullhash}{JEP1}
+  \field{sortinit}{J}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 25}
+  \field{title}{``Quare'' studies, or (almost) everything I know about queer
+  studies I learned from my grandmother}
+  \field{volume}{21}
+  \field{journaltitle}{Text and Performance Quarterly}
+  \field{year}{2001}
+\endentry
 
-\bibitem{collins86}
-Patricia~Hill Collins.
-\newblock Learning from the outsider within: The sociological significance of
-  black feminist thought.
-\newblock {\em Social Problems}, 33(6):S14--S32, 1986.
+\entry{lordescratching}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lorde}{L.}%
+     {Audre}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Taylor & Francis, Ltd.}%
+  }
+  \strng{namehash}{LA1}
+  \strng{fullhash}{LA1}
+  \field{sortinit}{L}
+  \field{number}{7}
+  \field{pages}{31\bibrangedash 35}
+  \field{title}{Scratching the Surface: Some notes on barriers to women and
+  loving}
+  \field{volume}{9}
+  \field{journaltitle}{The Black Scholar}
+  \field{year}{1978}
+\endentry
 
-\bibitem{hookschoosing}
-bell hooks.
-\newblock Choosing the margin as space of radical openness.
-\newblock {\em Framework}, 1989.
+\entry{manymoons}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mon\'ae}{M.}%
+     {Janelle}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MJ1}
+  \strng{fullhash}{MJ1}
+  \field{sortinit}{M}
+  \field{howpublished}{{Bad Boy Records}}
+  \field{note}{{(5:34) Track 3, Metropolis: Suite I (The Chase})}
+  \field{title}{{Many Moons}}
+  \field{year}{{2007}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{peachtreeblues}
-{Jaspects and Janelle Mon\'ae}.
-\newblock {Peachtree Blues}, {2007}.
-\newblock {(4:21) Broadcasting The Definition}.
+\entry{citizen}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rankine}{R.}%
+     {Claudia}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Graywolf Press}%
+  }
+  \strng{namehash}{RC1}
+  \strng{fullhash}{RC1}
+  \field{sortinit}{R}
+  \field{isbn}{9781555973483}
+  \field{title}{Citizen: An American Lyric}
+  \field{year}{2014}
+\endentry
 
-\bibitem{myfirstlove}
-{Jaspects and Janelle Mon\'ae}.
-\newblock {My First Love}, {2005}.
-\newblock {(3:58) In House Sessions}.
+\entry{forcoloredgirls}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Shange}{S.}%
+     {Ntozake}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Scribner}%
+  }
+  \strng{namehash}{SN1}
+  \strng{fullhash}{SN1}
+  \field{sortinit}{S}
+  \field{title}{For colored girls who have considered suicide/When the rainbow
+  is enuf}
+  \field{year}{1975}
+\endentry
 
-\bibitem{polkadottedstripe}
-{Jaspects}.
-\newblock {Polkadotted Stripes}, {2009}.
-\newblock {(8:00) Track 3, The Polkadotted Stripe}.
+\entry{smithhomegirls}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Barbara}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Rutgers University Press}%
+  }
+  \strng{namehash}{SB1}
+  \strng{fullhash}{SB1}
+  \field{sortinit}{S}
+  \field{title}{Home Girls: A Black Feminist Anthology}
+  \field{year}{1983}
+\endentry
 
-\bibitem{joeyguerra2010}
-Joey Guerra.
-\newblock {Janelle Mon\'ae: Deconstructing the ArchAndroid}, June 2010.
-\newblock
-  http://blog.chron.com/peep/2010/06/janelle-monae-deconstructing-the-archandroid.
+\entry{metropolis}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stiftung}{S.}%
+     {Murnau}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SM1}
+  \strng{fullhash}{SM1}
+  \field{sortinit}{S}
+  \field{title}{Metropolis 1927: Summary and Credits}
+  \verb{url}
+  \verb http://www.metropolis1927.com/#synopsis
+  \endverb
+\endentry
 
-\bibitem{collins2009}
-Patricia~Hill Collins.
-\newblock Black feminist thought in the matrix of domination.
-\newblock {\em Turning the Tide: Nonviolent Power for Social Change}, pages
-  4--5, 2009.
-\newblock http://www.hartford-hwp.com/archives/45a/252.html.
+\entry{wikipediatransmurders}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Violence}{V.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{V1}
+  \strng{fullhash}{V1}
+  \field{sortinit}{V}
+  \field{title}{List of Unlawfully Killed Transgender People}
+  \verb{url}
+  \verb https://en.wikipedia.org/wiki/List_of_unlawfully_killed_transgender_peo
+  \verb ple
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{iglesiascormier}
-Elizabeth Iglesias and Sherry Cormier.
-\newblock The transformation of girls to women: Finding voice and developing
-  strategies for liberation.
-\newblock {\em Journal of Multicultural Counseling and Development}, 30(4):259,
-  10 2002.
+\entry{rebeccawalker}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Walker}{W.}%
+     {Rebecca}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {NYU Press}%
+  }
+  \strng{namehash}{WR1}
+  \strng{fullhash}{WR1}
+  \field{sortinit}{W}
+  \field{pages}{78\bibrangedash 87}
+  \field{title}{Becoming the Third Wave}
+  \field{journaltitle}{Identity politics in the women's movement}
+  \field{year}{2001}
+\endentry
 
-\end{thebibliography}
+\lossort
+\endlossort
+
+\endinput
